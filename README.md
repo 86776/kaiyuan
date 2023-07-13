@@ -899,5 +899,6 @@ This guide is available under the Creative Commons CC0 1.0 License, meaning you 
 原文协议为Creative Commons CC0 1.0 License，即你可以自由的使用，商业或非商业，不过如果你用了，很开心能从你那里听到点什么，在这里找到我[@nayafia](http://twitter.com/nayafia)，当然这并不是要求必须做的。
 
 中文版协议为Creative Commons Attribution 4.0 International License，和原文协议差不多了，基本上可以说怎么用都可以，唯一不要修改原作者名字或以原作者名字声明演绎作品就可以了。
-
 ![](https://i.creativecommons.org/l/by/4.0/88x31.png)
+
+powered by github!
